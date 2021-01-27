@@ -1,1 +1,1 @@
-https://stefaniezak.github.io/NetflixClone/
+https://stefaniezak.github.io/netflix-clone/
