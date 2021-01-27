@@ -16,7 +16,7 @@ header .container {
 }
 
 .logo {
-  margin-right: 50px;
+  margin: 10px 50px 10px 0px;
 }
 
 .logo img {
@@ -42,7 +42,7 @@ header .container {
 
 .filme-principal {
   font-size: 1rem;
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.6) 50%, transparent), url("../img/filme.jpg");
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.5) 30%, transparent), url("../img/background1.jpg");
   height: 700px;
   background-size: cover;
   display: flex;
@@ -116,6 +116,7 @@ header .container {
   height: 100%;
   width: 100%;
   display: block;
+  cursor: pointer;
 }
 
 .carrosel-filmes {
